@@ -1,0 +1,5 @@
+*.jar
+*.war
+/target/
+*.DS_Store
+*.tmp
